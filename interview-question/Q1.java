@@ -14,7 +14,7 @@ public class Q1 {
                 
                 result = num1 + num2;
                 
-            } 
+            }     
             else if (operator == '-') {
                 result = num1 - num2;
             } 
